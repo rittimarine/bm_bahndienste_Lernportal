@@ -1,5 +1,5 @@
 {
-    "app_id" : "de.m-e-v.schule.lernportal",
+    "app_id" : "de.m-e-v.schule.bm_lernportal",
     "versioncode" : "2016",
     "versionname" : "1.0.1",
     "cache_expiration_time" : 300000,

@@ -4,11 +4,11 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "de.m-e-v.schule.bm_lernportal"
         versionCode = "2016"
-        version   = "1.0.1">
-    <name>MEV Lernportal</name>
+        version   = "1.0.2">
+    <name>bm bahndienste - Lernportal</name>
 
     <description>
-        Zugang zum MEV Lernportal
+        bm bahndienste - Lernportal
     </description>
 
     <author href="https://mevlernen.de" email="elearning@mevlernen.de">
